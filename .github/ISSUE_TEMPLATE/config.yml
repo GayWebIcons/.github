@@ -1,3 +1,4 @@
+---
 blank_issues_enabled: false
 contact_links:
   - name: Gay Web Icons Discussions
@@ -9,12 +10,12 @@ contact_links:
   - name: GitHub Security Bug Bounty
     url: https://bounty.github.com/
     about: Please report security vulnerabilities here.
-  - name: Bug Report
-    url: bug_report.yml
-    about: Please report bugs here.
-  - name: New Icon Request
-    url: new_icon_request.yml
-    about: Please request new icons here.
-  - name: General Comments
-    url: general.yml
-    about: Please comment on anything you like here. Or you can <a href="https://gh.gaywebicons.xyz/discussions">open a discussion</a>.
+  # - name: Bug Report
+  #   url: bug_report.yml
+  #   about: Please report bugs here.
+  # - name: New Icon Request
+  #   url: new_icon_request.yml
+  #   about: Use this form to request new icons.
+  # - name: General Comments
+  #   url: general.yml
+  #   about: Please comment on anything you like here. Or you can <a href="https://gh.gaywebicons.xyz/discussions">open a discussion</a>.
