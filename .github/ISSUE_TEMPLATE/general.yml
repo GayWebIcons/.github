@@ -7,9 +7,9 @@
 #     License: MIT (https://opensource.org/licenses/MIT)
 #
 ---
-name: "General Comment Form"
+name: "🤷🏼‍♂️ General Comment Form"
 description: "Chat about anything you like here."
-title: "Comment: "
+title: "[Comment]: "
 labels:
   - "comments"
 assignees:

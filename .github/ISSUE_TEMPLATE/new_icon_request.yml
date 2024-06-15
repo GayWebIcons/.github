@@ -8,9 +8,9 @@
 #
 
 ---
-name: New Icon Request
+name: 🆕 New Icon Request
 description: Suggest a new icon for this project
-title: "New Icon: "
+title: "[New Icon]: "
 labels:
   - "enhancement"
   - "triage"
@@ -20,7 +20,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to suggest a new feature! Please make sure to fill out the form below.
+        Thanks :heart: for taking the time to suggest a new feature! Please make sure to fill out the form below.
   - type: checkboxes
     id: preflight-checklist
     attributes:
