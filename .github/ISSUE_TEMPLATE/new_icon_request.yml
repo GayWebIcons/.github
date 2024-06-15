@@ -1,0 +1,74 @@
+#
+# feature_request.yml
+#     Created: 2024-06-15T03:29:23-04:00
+#    Modified: 2024-06-15T03:33:48-04:00
+#      Author: David Gerard <david@iamtheantwink.com>
+#   Copyright: © 2024 David Gerard, All Rights Reserved
+#     License: MIT (https://opensource.org/licenses/MIT)
+#
+
+name: New Icon Request
+description: Suggest a new icon for this project
+title: "New Icon: "
+labels:
+  - "enhancement"
+  - "triage"
+assignees:
+  - iamtheantwink
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to suggest a new feature! Please make sure to fill out the form below.
+  - type: checkboxes
+    id: preflight-checklist
+    attributes:
+      label: Preflight Checklist
+      description: Please ensure you've completed all of the following.
+      options:
+        - label: "I could not find the icon or any discussions of why it hasn't yet been inclued in any existing issues, docs, or discussions."
+          required: true
+        - label: "I agree to follow this project's [Code of Conduct](https://gaywebicons.xyz/CODEOFCONDUCT)."
+          required: true
+        - label: "I have read and am following this repository's [Contribution Guidelines](https://gaywebicons.xyz/CONTRIBUTE)."
+          required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: e.g., email@example.com
+    validations:
+      required: true
+  - type: dropdown
+    id: what-type
+    attributes:
+      label: What type of icon are you requesting?
+      description: Please select the type of icon you're requesting.
+      options:
+        - Hookup App/Site
+        - Porn site
+        - Other
+  - type: textarea
+    id: brand-or-icon-name
+    attributes:
+      label: What's the name of the brand or icon?
+      description: A clear and concise description of what the brand or icon is.
+      placeholder: Tell us about the brand or icon!
+    validations:
+      required: false
+  - type: textarea
+    id: what-would-you-like
+    attributes:
+      label: Which icon(s) would you like to see added?
+      description: A clear and concise description of the icon or icons you'd like added, with links to any relevant existing artwork.
+      placeholder: Tell us what you want!
+    validations:
+      required: true
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: Add any other context or screenshots about the icon request here.
+    validations:
+      required: false
