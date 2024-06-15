@@ -15,7 +15,7 @@ labels:
   - "bug"
   - "triage"
 assignees:
-  - dgmjr
+  - iamtheantwink
 body:
   - type: markdown
     attributes:

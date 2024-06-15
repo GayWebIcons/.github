@@ -13,6 +13,10 @@ description: Suggest an idea to help us improve W&B
 title: "[Feature]: "
 labels:
   - "feature_request"
+  - "triage"
+  - "enhancement"
+assignees:
+  - iamtheantwink
 
 body:
   - type: markdown

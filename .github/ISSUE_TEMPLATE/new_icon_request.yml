@@ -12,8 +12,9 @@ name: 🆕 New Icon Request
 description: Suggest a new icon for this project
 title: "[New Icon]: "
 labels:
-  - "enhancement"
+  - "feature_request"
   - "triage"
+  - "enhancement"
 assignees:
   - iamtheantwink
 body:
