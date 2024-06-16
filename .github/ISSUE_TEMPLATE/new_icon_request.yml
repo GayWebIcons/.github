@@ -12,7 +12,6 @@ name: 🆕 New Icon Request
 description: Suggest a new icon for this project
 title: "[New Icon]: "
 projects: ["GayWebIcons/GayWebIcons"]
-
 labels:
   - "feature_request"
   - "triage"
