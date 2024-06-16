@@ -1,3 +1,12 @@
+#
+# config.yml
+#     Created: 2024-06-15T06:11:37-04:00
+#    Modified: 2024-06-15T22:19:26-04:00
+#      Author: David Gerard <david@iamtheantwink.com>
+#   Copyright: © 2024 David Gerard, All Rights Reserved
+#     License: MIT (https://opensource.org/licenses/MIT)
+#
+
 ---
 blank_issues_enabled: false
 contact_links:
