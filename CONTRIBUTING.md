@@ -1,7 +1,22 @@
+---
+authors:
+- iamtheantitwink
+title: Gay Web Icons Contributing Guidelines
+lastmod: 2024-06-17T15:36:14-04:00
+date: 2024-06-15T03:02:40-04:00
+license: MIT
+copyright: © 2024 David Gerard, All Rights Reserved
+keywords:
+- gay
+- web
+- icons
+- contributing guidelines
+type: readme
+---
+
 # Contributing Guidelines
 
 _Pull requests, bug reports, and all other forms of contribution are welcomed and highly encouraged!_ ![:octocat:](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
 
 > **This guide serves to set clear expectations for everyone involved with the project so that we can improve it together while also creating a welcoming space for everyone to participate. Following these guidelines will help ensure a positive experience for contributors and maintainers.**
 
