@@ -41,14 +41,13 @@ community include:
 * Focusing on what is best not just for us as individuals, but for the overall
   community
 
-Examples of unacceptable behavior include[^2]:
+Examples of unacceptable behavior include:
 
+* The use of *un-called-for* sexualized language or imagery, and *unwanted* sexual attention or advances of any kind[^2]
 * Trolling, insulting or derogatory comments, and personal or political attacks
 * Public or private harassment
-* Publishing others' private information, such as a physical or email address,
-  without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+* Publishing others' private information, such as a physical or email address, without their explicit permission
+* Other conduct which could reasonably be considered inappropriate in a   professional setting
 
 ## Enforcement Responsibilities
 
@@ -59,8 +58,7 @@ or harmful.
 
 Community leaders have the right and responsibility to remove, edit, or reject
 comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
 
 ## Scope
 
@@ -142,4 +140,4 @@ For answers to common questions about this code of conduct, see the FAQ at
 [translations]: https://www.contributor-covenant.org/translations
 
 [^1]:This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.1, available at [https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
-[^2]: This differs from the source in the omission of "The use of sexualized language or imagery, and sexual attention or advances of any kind;" in fact, sexualized language and imagery are *encouraged* in this community.
+[^2]: This differs from the source in the insertions of "un-called-for" and "unwanted." In fact, sexualized language and imagery are *encouraged* in this community as long as they are consensual and respectful.
