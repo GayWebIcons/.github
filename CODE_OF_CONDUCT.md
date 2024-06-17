@@ -1,20 +1,17 @@
 ---
-
 authors:
-
-*   iamtheantitwink
-    title: Gay Web Icons Contributor Covenant Code of Conduct
-    lastmod: 2024-06-17T15:07:55-04:00
-    date: 2024-06-17T14:58:29-04:00
-    license: MIT
-    copyright: © 2024 David Gerard, All Rights Reserved
-    keywords:
-*   gay
-*   web
-*   icons
-*   codeofconduct
-    type: codeofconduct
-
+- iamtheantitwink
+title: Gay Web Icons Contributor Covenant Code of Conduct
+lastmod: 2024-06-17T15:07:55-04:00
+date: 2024-06-17T14:58:29-04:00
+license: MIT
+copyright: © 2024 David Gerard, All Rights Reserved
+keywords:
+- gay
+- web
+- icons
+- codeofconduct
+type: codeofconduct
 ---
 
 # Contributor Covenant Code of Conduct \[^1\]
