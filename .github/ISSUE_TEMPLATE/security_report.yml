@@ -8,14 +8,14 @@
 #
 
 ---
-name: Security Vulnerability Report
+name: 🛡️ Security Vulnerability Report
 description: File a security vulnerability report
 title: "[Security]: "
 labels:
   - "security"
   - "triage"
 assignees:
-  - justinwritescode
+  - iamtheantitwink
 body:
   - type: markdown
     attributes:
